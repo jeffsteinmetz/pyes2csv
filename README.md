@@ -1,7 +1,7 @@
 pyes2csv
 ========
 
-Elastic Search to CSV Python Sample Script  
+Elastic Search to CSV Exporter Python Sample Script  
 provided by Jeff Steinmetz, @jeffsteinmetz  
   
 This script is meant to provide a starting point for your specific Elasticsearch export.  
